@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 ### ✅ Data Preparation
 - Handles missing values (dropped)
-- Categorical encoding using `LabelEncoder` and `OneHotEncoder`
+- Categorical encoding using `OneHotEncoder`
 
 ### 📊 Data Visualization
 - Histogram of exam scores
