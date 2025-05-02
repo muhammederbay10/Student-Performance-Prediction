@@ -92,7 +92,6 @@ pip install -r requirements.txt
 ### 📊 Data Visualization
 - Histogram of exam scores
 - Boxplot by parental education
-- Correlation heatmap
 
 ### 🤖 Machine Learning
 - Linear Regression model (scikit-learn)
@@ -130,7 +129,6 @@ Model performance is measured using:
 Included plots:
 - **Histogram** of `ExamScore` distribution  
 - **Boxplot** of scores by `ParentalEducation`  
-- **Heatmap** of feature correlations  
 - **Bar chart** for feature importance from linear regression coefficients  
 
 ---
